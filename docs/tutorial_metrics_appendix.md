@@ -16,7 +16,6 @@ Below is a list of tutorials included with the VectorBlox SDK. Runtime in millis
 | PINTO | [132_YOLOX](../tutorials/PINTO/132_YOLOX/132_YOLOX.sh) | [416, 416, 3] | 17.226 | object detection | mAP⁵⁰⁻⁹⁵ |  |  |
 | PINTO | [307_YOLOv7](../tutorials/PINTO/307_YOLOv7/307_YOLOv7.sh) | [640, 640, 3] | 56.941 | object detection | mAP |  |  |
 | darknet | [yolov2-tiny](../tutorials/darknet/yolov2-tiny/yolov2-tiny.sh) | [416, 416, 3] | 33.459 | object detection | mAP⁵⁰⁻⁹⁵ | 10.92 | 11.08 |
-| darknet | [yolov2-tiny-voc](../tutorials/darknet/yolov2-tiny-voc/yolov2-tiny-voc.sh) | [416, 416, 3] | 43.854 | object detection | mAP⁵⁰⁻⁹⁵ | 21.65 | 21.62 |
 | darknet | [yolov3-tiny](../tutorials/darknet/yolov3-tiny/yolov3-tiny.sh) | [416, 416, 3] | 35.527 | object detection | mAP⁵⁰⁻⁹⁵ | 10.93 | 10.88 |
 | kaggle | [efficientnet-lite0](../tutorials/kaggle/efficientnet-lite0/efficientnet-lite0.sh) | [224, 224, 3] | 16.481 | classification | Top1 | 70.8 | 70.4 |
 | kaggle | [efficientnet-lite4](../tutorials/kaggle/efficientnet-lite4/efficientnet-lite4.sh) | [224, 224, 3] | 82.484 | classification | Top1 | 77.9 | 77.8 |
@@ -78,7 +77,6 @@ Below is a list of tutorials included with the VectorBlox SDK. Runtime in millis
 | tensorflow | [mobilenet_v1_050_160](../tutorials/tensorflow/mobilenet_v1_050_160/mobilenet_v1_050_160.sh) | [160, 160, 3] | 3.319 | classification | Top1 | 49.4 | 49.9 |
 | tensorflow | [mobilenet_v2](../tutorials/tensorflow/mobilenet_v2/mobilenet_v2.sh) | [224, 224, 3] | 12.875 | classification | Top1 | 70.2 | 70.1 |
 | tensorflow | [mobilenet_v2_140_224](../tutorials/tensorflow/mobilenet_v2_140_224/mobilenet_v2_140_224.sh) | [224, 224, 3] | 20.146 | classification | Top1 | 75.5 | 75.4 |
-| tensorflow | [posenet](../tutorials/tensorflow/posenet/posenet.sh) | [273, 481, 3] | 41.077 | pose detection |  |  |  |
 | tensorflow | [yolo-v3-tf](../tutorials/tensorflow/yolo-v3-tf/yolo-v3-tf.sh) | [416, 416, 3] | 477.906 | object detection | mAP⁵⁰⁻⁹⁵ | 34.73 | 34.54 |
 | tensorflow | [yolo-v3-tiny-tf](../tutorials/tensorflow/yolo-v3-tiny-tf/yolo-v3-tiny-tf.sh) | [416, 416, 3] | 35.531 | object detection | mAP⁵⁰⁻⁹⁵ | 10.86 | 11.0 |
 | tensorflow | [yolo-v4-tiny-tf](../tutorials/tensorflow/yolo-v4-tiny-tf/yolo-v4-tiny-tf.sh) | [416, 416, 3] | 46.247 | object detection | mAP⁵⁰⁻⁹⁵ | 12.29 | 12.29 |
