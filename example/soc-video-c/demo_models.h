@@ -19,7 +19,7 @@ struct model_descr_t models[] = {
 
 #else //NCOMP
 struct model_descr_t models[] = {		
-	{"Yolo v9t", "/home/root/samples_V1000_NCOMP_3.1.1/yolov9-t_512x288_argmax_V1000_ncomp.vnnx", 0, "OBJECT_DETECT"},		
+	{"Yolo v8n", "/home/root/samples_V1000_NCOMP_3.1.1/yolov8n_512x288_argmax_V1000_ncomp.vnnx", 0, "OBJECT_DETECT"},				
 	{"MobileNet V2", "/home/root/samples_V1000_NCOMP_3.1.1/mobilenet-v2_V1000_ncomp.vnnx", 0, "CLASSIFY"},		
   	{"Yolov8 Pose", "/home/root/samples_V1000_NCOMP_3.1.1/yolov8n-pose_512x288_split_V1000_ncomp.vnnx", 0, "POSE_DETECT"},		
 	{"FFNet 122NS", "/home/root/samples_V1000_NCOMP_3.1.1/FFNet-122NS-LowRes_512x288_V1000_ncomp.vnnx", 0, "PIXEL"},	
